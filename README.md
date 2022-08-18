@@ -1,6 +1,2 @@
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif"/>
-</div>
-
+![:the_jam:](https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1)
 
