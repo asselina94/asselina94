@@ -16,11 +16,11 @@ Welcome to my profile! I'm a self taught developer, full-time coder and adventur
 
 ### **Languages and Technologies:**
 <p float="left">
- <a href="https://en.wikipedia.org/wiki/JavaScript">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/i4eg.png" width="40">
+ <a href="https://en.wikipedia.org/wiki/Python">
+<img alt="choubari" src="https://devstickers.com/assets/img/cat/python.png" width="40">
   </a>
- <a href="https://en.wikipedia.org/wiki/TypeScript">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/tzgi.png" width="40">
+ <a href="https://www.w3schools.com/html/html_css.asp">
+<img alt="choubari" src="https://devstickers.com/assets/img/cat/html5-css3.png" width="40">
   </a>
  <a href="https://reactjs.org/">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/z392.png" width="40">
