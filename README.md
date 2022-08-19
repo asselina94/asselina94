@@ -11,3 +11,30 @@ Welcome to my profile! I'm a self taught developer, full-time coder and adventur
 <li>🧐 Most of my projects are available on <a href="https://github.com/asselina94">Github</a>.</li>
 <li>📙 Check out my <a href="https://drive.google.com/file/d/19bQecgFTceKsIGVXGXlnMJP_uHq2UEza/view?usp=sharing
 ">resume</a>.</li>
+
+## 
+
+### **Languages and Technologies:**
+<p float="left">
+ <a href="https://en.wikipedia.org/wiki/JavaScript">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/i4eg.png" width="40">
+  </a>
+ <a href="https://en.wikipedia.org/wiki/TypeScript">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/tzgi.png" width="40">
+  </a>
+ <a href="https://reactjs.org/">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/z392.png" width="40">
+  </a>
+ <a href="https://www.java.com/">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/7kaq.png" width="40">
+ </a>
+ <a href="https://www.android.com/">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/zl8i.png" width="40">
+ </a>
+ <a href="https://git-scm.com/">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/apiv.png" width="40">
+  </a>
+ <a href="https://code.visualstudio.com/">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
+  </a>
+</p>
