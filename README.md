@@ -25,15 +25,6 @@ Welcome to my profile! I'm a self taught developer, full-time coder and adventur
  <a href="https://reactjs.org/">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/z392.png" width="40">
   </a>
- <a href="https://www.java.com/">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/7kaq.png" width="40">
- </a>
- <a href="https://www.android.com/">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/zl8i.png" width="40">
- </a>
- <a href="https://git-scm.com/">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/apiv.png" width="40">
-  </a>
  <a href="https://code.visualstudio.com/">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
   </a>
