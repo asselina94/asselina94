@@ -22,8 +22,8 @@ Welcome to my profile! I'm a self taught developer, full-time coder and adventur
  <a href="https://www.w3schools.com/html/html_css.asp">
 <img alt="choubari" src="https://devstickers.com/assets/img/cat/html5-css3.png" width="40">
   </a>
- <a href="https://reactjs.org/">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/z392.png" width="40">
+ <a href="https://en.wikipedia.org/wiki/JavaScript">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/i4eg.png" width="40">
   </a>
  <a href="https://code.visualstudio.com/">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
