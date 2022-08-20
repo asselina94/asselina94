@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-batuassel-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:batuassel@gmail.com)](mailto:batuassel@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@asselbatu-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/asselbatu/)](https://www.instagram.com/asselbatu/)
 
-Welcome to my profile! I'm a self taught developer, full-time coder and adventure seeker. I'm currently into Python Development and working on my Data Structures and Algorithms. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/asselkin/)!
+Welcome to my profile! I'm a self taught developer, full-time coder and adventure seeker. I'm currently into Python Development and working on my Data Structures and Algorithms. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/asselkin/).
 
 <li>🧐 Most of my projects are available on <a href="https://github.com/asselina94">Github</a>.</li>
 <li>📙 Check out my <a href="https://drive.google.com/file/d/19bQecgFTceKsIGVXGXlnMJP_uHq2UEza/view?usp=sharing
