@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-asselkin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asselkin/)](https://www.linkedin.com/in/asselkin/)
 [![Gmail Badge](https://img.shields.io/badge/-batuassel-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:batuassel@gmail.com)](mailto:batuassel@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@asselbatu-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/asselbatu/)](https://www.instagram.com/asselbatu/)
+[![Facebook Badge](https://img.shields.io/badge/-@asselbatu-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/asselbatu/)](https://www.instagram.com/asselbatu/)
 
 Welcome to my profile! I'm a self taught developer, full-time coder and adventure seeker. I'm currently into Python Development and working on my Data Structures and Algorithms. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/asselkin/).
 
