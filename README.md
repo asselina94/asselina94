@@ -31,4 +31,4 @@ Welcome to my profile! I'm a self taught developer, full-time coder and adventur
   <a href="https://git-scm.com/">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/4mh6.png" width="40">
   </a>
-</p> 
+</p>  
