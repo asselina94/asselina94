@@ -12,7 +12,7 @@ Welcome to my profile! I'm a self taught developer, full-time coder and adventur
 <li>📙 Check out my <a href="https://drive.google.com/file/d/1ba0bt62j8BsOrLkd1YJS8zpIZYm7uU4a/view?usp=sharing">resume</a>.</li>
 
 ## 
-
+ 
 ### **Languages and Technologies:**
 <p float="left">
  <a href="https://en.wikipedia.org/wiki/Python">
