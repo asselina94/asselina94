@@ -9,8 +9,7 @@
 Welcome to my profile! I'm a self taught developer, full-time coder and adventure seeker. I'm currently into Python Development and working on my Data Structures and Algorithms. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/asselkin/).
 
 <li>🧐 Most of my projects are available on <a href="https://github.com/asselina94">Github</a>.</li>
-<li>📙 Check out my <a href="https://drive.google.com/file/d/19bQecgFTceKsIGVXGXlnMJP_uHq2UEza/view?usp=sharing
-">resume</a>.</li>
+<li>📙 Check out my <a href="https://drive.google.com/file/d/1ba0bt62j8BsOrLkd1YJS8zpIZYm7uU4a/view?usp=sharing">resume</a>.</li>
 
 ## 
 
