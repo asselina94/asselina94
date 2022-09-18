@@ -33,5 +33,8 @@ Welcome to my profile! I'm a self taught developer, full-time coder and adventur
    <a href="https://getbootstrap.com/">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/9g0m.png" width="40">
   </a>
+  <a href="https://www.djangoproject.com/">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/34qe.png" width="40">
+  </a>
   
 </p>  
