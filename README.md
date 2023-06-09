@@ -9,7 +9,7 @@
 Welcome to my profile! I'm a self taught developer, full-time coder and adventure seeker. I'm currently into Python Development and working on my Data Structures and Algorithms. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/asselkin/).
 
 <li>🧐 Most of my projects are available on <a href="https://github.com/asselina94">Github</a>.</li>
-<li>📙 Check out my <a href="https://drive.google.com/file/d/1ba0bt62j8BsOrLkd1YJS8zpIZYm7uU4a/view?usp=sharing">resume</a>.</li>
+<li>📙 Check out my <a href="https://drive.google.com/file/d/1sqwmHwIra5irGK1bDwJbzTytpOY5d9wq/view?usp=sharing">resume</a>.</li>
 
 ## 
  
@@ -39,5 +39,7 @@ Welcome to my profile! I'm a self taught developer, full-time coder and adventur
   <a href="https://www.w3schools.com/sql/">
 <img alt="choubari" src="https://ih1.redbubble.net/image.471342675.5626/st,small,507x507-pad,600x600,f8f8f8.u2.jpg" width="40">
   </a>
-  
+   <a href="https://powerbi.microsoft.com/en-au/">
+<img alt="choubari" src="https://cdn.windowsreport.com/wp-content/uploads/2019/07/Fix-power-bi-cant-find-app.jpg" width="40">
+  </a>
 </p>  
