@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-batuassel-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:batuassel@gmail.com)](mailto:batuassel@gmail.com)
 
 
-Welcome to my profile! I'm a self taught developer, full-time coder and adventure seeker. I'm currently into Python Development and working on my Data Structures and Algorithms. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/asselkin/).
+Welcome to my GitHub profile! I'm a data analyst with a passion for exploring and analyzing data to uncover insights and drive decision-making. As a self-taught developer and full-time coder, I thrive on tackling challenges and turning data into actionable insights. Currently, I'm focused on Python development and leveraging its powerful libraries for data analysis and visualization. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/asselkin/).
 
 <li>🧐 Most of my projects are available on <a href="https://github.com/asselina94">Github</a>.</li>
 
